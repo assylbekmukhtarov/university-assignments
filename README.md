@@ -6,7 +6,7 @@
 
 ### Homework
 - `week01_embeddings`: Выполнено solution_homework, solution_seminar
-- `week04_classification`: solution_homework_part1, solution_homework_part2, solution_seminar
+- `week04_classification`: solution_homework_part1,  solution_seminar
 
 ## Note. 
 
